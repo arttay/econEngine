@@ -1,0 +1,73 @@
+{
+	"spirit_dust": 0.5,
+	"sha_crystal": 15,
+	"mysterious_essence": 3,
+	"etheral_shard": 1,
+
+	"hypnotic_dust": 20,
+	"greater_celestial_essence": 2,
+	"heavenly_shard": 15,
+	"maelstrom_crystal": 15,
+	"lesser_celestial_essence": 0,
+
+	"infinite_dust": 5,
+	"greater_cosmic_essence": 1,
+	"dream_shard": 20,
+	"abyss_crystal": 25,
+
+	"void_crystal": 1,
+	"large_prismatic_shard": 16,
+	"greater_planar_essence": 3,
+	"arcane_dust": 3,
+	"small_prismatic_shard": 1,
+
+	"large_brilliant_shard": 60,
+	"greater_eternal_essence": 15,
+	"illusion_dust": 4,
+	"small_radiant_shard": 1,
+	"lesser_nether_essence": 10,
+	"small_brilliant_shard": 0,
+	
+	"volatile_air": 10,
+	"volatile_fire": 30,
+	"volatile_earth": 2,
+	"volatile_life": 15,
+	"volatile_water": 55,
+
+	"eternal_life": 30,
+	"eternal_fire": 50,
+	"eternal_air": 20,
+	"eternal_water": 35,
+	"titansteel_bar": 700,
+
+	"elixir_of_major_strength": 25,
+	"primal_water": 75,
+	"primal_shadow": 125,
+	"primal_fire": 350,
+	"primal_might": 3000,
+	"primal_life": 10,
+	"primal_earth": 1,
+	"primal_air": 200,
+	"primal_mana": 35,
+
+	"essence_of_air": 75,
+	"essence_of_earth": 0.5,
+	"essence_of_fire": 5,	
+	"essence_of_water": 150,
+	"living_essence": 0.5,
+	"essence_of_undeath": 5,
+	"golden_pearl": 5,
+	"righteous_orb": 5,
+	"aquamarine": 1,
+	"icecap": 0,
+
+	"imperial_amethyst": 55,
+	"wild_jade": 70,
+	"vermilion_onyx": 40,
+	"rivers_hear": 60,
+	"primordial_ruby": 35,
+	"suns_radiance": 45
+
+
+
+}

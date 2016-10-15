@@ -1,0 +1,641 @@
+{
+	"wep":{
+		"bc":{
+			"Greater agility":[{
+				"name": "Arcane_dust",
+				"number": 8
+				},{
+				"name": "Greater_planar_essence",
+				"number": 4
+				},{
+				"name": "large prismatic_shard",
+				"number": 6
+				},{
+				"name": "Primal_air",
+				"number": 2
+				}],
+			"Major Int": [{
+				"name": "Greater_planar_essence",
+				"number": 10
+				},{
+				"name": "large prismatic_shard",
+				"number": 2
+				}],
+			"Major Agi": [{
+				"name": "Arcane_dust",
+				"number": 20
+				},{
+				"name": "Greater_planar_essence",
+				"number": 6
+				},{
+				"name": "large prismatic_shard",
+				"number": 8
+				}],
+			"Major Spellpower": [{
+				"name": "Greater_planar_essence",
+				"number": 8
+				},{
+				"name": "large prismatic_shard",
+				"number": 8
+				}],
+			"Major Striking": [{
+				"name": "Arcane_dust",
+				"number": 6
+				},{
+				"name": "Greater_planar_essence",
+				"number": 6
+				},{
+				"name": "large prismatic_shard",
+				"number": 2
+				}],
+			"Mongoose": [{
+				"name": "Arcane_dust",
+				"number": 40
+				},{
+				"name": "Greater_planar_essence",
+				"number": 8
+				},{
+				"name": "large prismatic_shard",
+				"number": 10
+				}, {
+					"name": "void_crystal",
+					"number": 6
+				}],
+			"Potency": [{
+				"name": "Arcane_dust",
+				"number": 20
+				},{
+				"name": "Greater_planar_essence",
+				"number": 5
+				},{
+				"name": "large prismatic_shard",
+				"number": 4
+				}],
+			"Savagery": [{
+				"name": "Arcane_dust",
+				"number": 40
+				},{
+				"name": "large prismatic_shard",
+				"number": 4
+				}],
+			"Spellsurge": [{
+				"name": "Arcane_dust",
+				"number": 20
+				},{
+				"name": "Greater_planar_essence",
+				"number": 10
+				},{
+				"name": "large prismatic_shard",
+				"number": 12
+				}],
+			"Executioner": [{
+				"name": "Arcane_dust",
+				"number": 30
+				},{
+				"name": "greater_planar_essence",
+				"number": 6
+				},{
+				"name": "large prismatic_shard",
+				"number": 10
+				}, {
+					"name": "void_crystal",
+					"number": 6
+				}, {
+					"name": "elixir_of_major_strength",
+					"number": 3
+					}],
+			"Soulfrost": [{
+				"name": "greater_planar_essence",
+				"number": 8
+				},{
+				"name": "large prismatic_shard",
+				"number": 10
+				}, {
+					"name": "void_crystal",
+					"number": 12
+				},{
+					"name": "primal_water",
+					"number": 6
+				},{
+					"name": "primal_shadow",
+					"number": 6
+				}],
+			"Sunfire": [{
+				"name": "greater_planar_essence",
+				"number": 8
+				},{
+				"name": "large prismatic_shard",
+				"number": 10
+				}, {
+					"name": "void_crystal",
+					"number": 12
+				},{
+					"name": "primal_fire",
+					"number": 6
+				},{
+					"name": "primal_might",
+					"number": 1
+				}],
+			"Battlemaster": [{
+				"name": "large prismatic_shard",
+				"number": 8
+				}, {
+					"name": "void_crystal",
+					"number": 8
+				},{
+					"name": "primal_water",
+					"number": 6
+				}],
+			"Major healing": [{
+				"name": "large prismatic_shard",
+				"number": 8
+				}, {
+					"name": "primal_water",
+					"number": 8
+				},{
+					"name": "primal_life",
+					"number": 8
+				}],
+			"Deathfrost": [{
+					"name": "primal_water",
+					"number": 2
+				},{
+					"name": "primal_life",
+					"number": 2
+				}]
+		},
+		"Panda Land": {
+			"Dancing Steel":[{
+				"name": "spirit_dust",
+				"number": 12
+				},{
+				"name": "sha_crystal",
+				"number": 10
+				}],
+			"Jade Spirit": [{
+				"name": "sha_crystal",
+				"number": 10
+				},{
+				"name": "mysterious_essence",
+				"number": 4
+				}],
+			"Colossus": [{
+				"name": "etheral_shard",
+				"number": 3
+				}],
+			"Windsong":[{
+				"name": "etheral_shard",
+				"number": 1
+				},{
+				"name": "spirit_dust",
+				"number": 12
+				}]
+		},
+		"cata": {
+			"mending": [{
+				"name": "hypnotic_dust",
+				"number": 11
+				},{
+				"name": "greater_celestial_essence",
+				"number": 3
+				}],
+			"Windwalk": [{
+				"name": "greater_celestial_essence",
+				"number": 4
+				},{
+				"name": "heavenly_shard",
+				"number": 6
+				},{
+				"name": "maelstrom_crystal",
+				"number": 6
+				}],
+			"HeartSong": [{
+				"name": "hypnotic_dust",
+				"number": 9
+				},{
+				"name": "greater_celestial_essence",
+				"number":3
+				},{
+				"name": "heavenly_shard",
+				"number": 3
+				},{
+				"name": "volatile_life",
+				"number": 3
+				}],
+			"Hurricane": [{
+				"name": "heavenly_shard",
+				"number": 6
+				},{
+				"name": "volatile_air",
+				"number": 6
+				}],
+			"Avalanche": [{
+				"name": "hypnotic_dust",
+				"number": 4
+				},{
+				"name": "greater_celestial_essence",
+				"number": 6
+				}],
+			"Landslide": [{
+				"name": "hypnotic_dust",
+				"number": 6
+				},{
+				"name": "greater_celestial_essence",
+				"number":5
+				},{
+				"name": "heavenly_shard",
+				"number": 5
+				},{
+				"name": "maelstrom_crystal",
+				"number": 5
+				}],
+			"Power Torrent": [{
+				"name": "hypnotic_dust",
+				"number": 14
+				},{
+				"name": "heavenly_shard",
+				"number": 8
+				},{
+				"name": "maelstrom_crystal",
+				"number": 4
+				}]
+		},
+		"Wrath": {
+			"Accuracy": [{
+				"name": "infinite_dust",
+				"number": 20
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 4
+				},{
+				"name": "dream_shard",
+				"number": 4
+				},{
+				"name": "abyss_crystal",
+				"number": 6
+				}],
+			"Berserking": [{
+				"name": "infinite_dust",
+				"number": 12
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 4
+				},{
+				"name": "dream_shard",
+				"number": 4
+				},{
+				"name": "abyss_crystal",
+				"number": 10
+				}],
+			"Black magic": [{
+				"name": "greater_cosmic_essence",
+				"number": 6
+				},{
+				"name": "dream_shard",
+				"number": 6
+				},{
+				"name": "abyss_crystal",
+				"number": 6
+				}],
+			"blade ward": [{
+				"name": "greater_cosmic_essence",
+				"number": 4
+				},{
+				"name": "abyss_crystal",
+				"number": 8
+				},{
+				"name": "titansteel_bar",
+				"number": 1
+				}],
+			"Blood draining": [{
+				"name": "infinite_dust",
+				"number": 40
+				},{
+				"name": "abyss_crystal",
+				"number": 4
+				}],
+			"Exceptional agility": [{
+				"name": "dream_shard",
+				"number": 4
+				},{
+				"name": "eternal_air",
+				"number": 1
+				}],
+			"greater savager": [{
+				"name": "infinite_dust",
+				"number": 6
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 2
+				}],
+			"greater spellpower": [{
+				"name": "infinite_dust",
+				"number": 40
+				},{
+				"name": "dream_shard",
+				"number": 6
+				},{
+				"name": "abyss_crystal",
+				"number": 6
+				}],
+			"ice breaker": [{
+				"name": "dream_shard",
+				"number": 4
+				},{
+				"name": "eternal_fire",
+				"number": 4
+				}],
+			"lifeward": [{
+				"name": "dream_shard",
+				"number": 4
+				},{
+				"name": "eternal_life",
+				"number": 4
+				}],
+			"massacre": [{
+				"name": "infinite_dust",
+				"number": 40
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 6
+				},{
+				"name": "abyss_crystal",
+				"number": 6
+				}],
+			"Mighty spellpower": [{
+				"name": "infinite_dust",
+				"number": 30
+				},{
+				"name": "dream_shard",
+				"number": 6
+				},{
+				"name": "abyss_crystal",
+				"number": 6
+				}],
+			"superior potency": [{
+				"name": "infinite_dust",
+				"number": 10
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 2
+				},{
+				"name": "dream_shard",
+				"number": 2
+				},{
+				"name": "abyss_crystal",
+				"number": 4
+				}],
+			"Exceptional Versatility": [{
+				"name": "infinite_dust",
+				"number": 3
+				},{
+				"name": "dream_shard",
+				"number": 4
+				}],
+			"Exceptional Spellpower": [{
+				"name": "infinite_dust",
+				"number": 10
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 2
+				}]
+			},
+		"Vanilla": {
+			"Fiery": [{
+				"name": "small_radiant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_fire",
+				"number": 1
+				}],
+			"Mighty Versatility": [{
+				"name": "large_brilliant_shard",
+				"number": 6
+				},{
+				"name": "greater_eternal_essence",
+				"number": 4
+				},{
+				"name": "illusion_dust",
+				"number": 12
+				}],
+			"Strength": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_earth",
+				"number": 4
+				}],
+			"Unholy": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_undeath",
+				"number": 4
+				}],
+			"Agility": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_air",
+				"number": 4
+				}],
+			"Crusader": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "righteous_orb",
+				"number": 2
+				}],
+			"Healing power": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "greater_eternal_essence",
+				"number": 4
+				},{
+				"name": "essence_of_water",
+				"number": 4
+				}],
+			"Lifestealing": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_undeath",
+				"number": 4
+				},{
+				"name": "living_essence",
+				"number": 4
+				}],
+			"Mighty int": [{
+				"name": "large_brilliant_shard",
+				"number": 6
+				},{
+				"name": "greater_eternal_essence",
+				"number": 5
+				},{
+				"name": "illusion_dust",
+				"number": 20
+				}],
+			"Spellpower": [{
+				"name": "large_brilliant_shard",
+				"number": 4
+				},{
+				"name": "greater_eternal_essence",
+				"number": 6
+				},{
+				"name": "golden_pearl",
+				"number": 2
+				}],
+			"Icy Chill": [{
+				"name": "small_brilliant_shard",
+				"number": 4
+				},{
+				"name": "essence_of_water",
+				"number": 1
+				},{
+				"name": "essence_of_air",
+				"number": 1
+				},{
+				"name": "icecap",
+				"number": 1
+				}]
+		}
+	},
+	"items": {
+		"bc": {
+			"Primal might":[{
+				"name": "primal_earth",
+				"number": 1
+				},{
+				"name": "primal_water",
+				"number": 1
+				},{
+				"name": "primal_air",
+				"number": 1
+				},{
+				"name": "primal_fire",
+				"number": 1
+				},{
+				"name": "Primal_air",
+				"number": 1
+				}]
+		}
+	},
+	"tomes": {
+		"all": {
+			"Draenor":[{
+				"name": "primal_earth",
+				"number": 1
+				},{
+				"name": "primal_water",
+				"number": 1
+				},{
+				"name": "primal_air",
+				"number": 1
+				},{
+				"name": "primal_fire",
+				"number": 1
+				},{
+				"name": "Primal_air",
+				"number": 1
+				}],
+			"Panda Land":[{
+				"name": "sha_crystal",
+				"number": 10
+				},{
+				"name": "imperial_amethyst",
+				"number": 2
+				},{
+				"name": "wild_jade",
+				"number": 2
+				},{
+				"name": "vermilion_onyx",
+				"number": 2
+				}],
+			"shado pan":[{
+				"name": "sha_crystal",
+				"number": 10
+				},{
+				"name": "rivers_hear",
+				"number": 2
+				},{
+				"name": "primordial_ruby",
+				"number": 2
+				},{
+				"name": "suns_radiance",
+				"number": 2
+				}],
+			"cata":[{
+				"name": "maelstrom_crystal",
+				"number": 10
+				},{
+				"name": "heavenly_shard",
+				"number": 10
+				},{
+				"name": "volatile_air",
+				"number": 5
+				},{
+				"name": "volatile_earth",
+				"number": 5
+				}],
+			"elemental lords":[{
+				"name": "maelstrom_crystal",
+				"number": 10
+				},{
+				"name": "volatile_fire",
+				"number": 3
+				},{
+				"name": "volatile_air",
+				"number": 3
+				},{
+				"name": "volatile_earth",
+				"number": 3
+				},{
+				"name": "volatile_life",
+				"number": 3
+				},{
+				"name": "volatile_water",
+				"number": 3
+				}],
+			"wrath":[{
+				"name": "abyss_crystal",
+				"number": 10
+				},{
+				"name": "dream_shard",
+				"number": 5
+				},{
+				"name": "greater_cosmic_essence",
+				"number": 8
+				},{
+				"name": "eternal_water",
+				"number": 4
+				}],
+			"bc":[{
+				"name": "void_crystal",
+				"number": 10
+				},{
+				"name": "large_prismatic_shard",
+				"number": 5
+				},{
+				"name": "primal_fire",
+				"number": 5
+				},{
+				"name": "primal_mana",
+				"number": 5
+				}],
+			"Vanilla":[{
+				"name": "large_brilliant_shard",
+				"number": 10
+				},{
+				"name": "essence_of_fire",
+				"number": 5
+				},{
+				"name": "essence_of_water",
+				"number": 5
+				},{
+				"name": "essence_of_undeath",
+				"number": 5
+				}]
+		}
+	}
+}
